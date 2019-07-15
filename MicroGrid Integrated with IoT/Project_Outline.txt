@@ -1,0 +1,18 @@
+# Microgrid 
+A microgrid is a local energy grid with control capability, which means it can
+disconnect from the utility grid and operate autonomously known as islanding. It
+can also be defined as an interconnection of distributed energy sources and loads
+with a clearly defined electrical boundaries. The grid connects homes, businesses
+and other buildings to central power sources, which allow us to use appliances,
+heating/cooling systems and electronics. A microgrid can be powered by
+renewable resources like solar panels, wind turbines, batteries, and/or distributed
+generators. Depending on how it’s fueled and how its requirements are managed, a
+microgrid might run indefinitely. A microgrid not only provides backup for the
+grid in case of emergencies, but can also be used to cut costs, or connect to a local
+resource that is too small or unreliable for traditional grid use. A microgrid allows
+communities to be more energy independent, resilient and reliable, in some cases,
+more environmentally friendly.
+In order to monitor and optimize energy consumption the microgrid is
+integrated with I.o.T. Internet of things (I.o.T) can be defined as any device that is
+embedded with sensor/electronics which is connected to internet and can be
+remotely controlled.
