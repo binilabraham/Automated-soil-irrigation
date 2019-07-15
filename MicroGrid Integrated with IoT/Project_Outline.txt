@@ -16,3 +16,7 @@ In order to monitor and optimize energy consumption the microgrid is
 integrated with I.o.T. Internet of things (I.o.T) can be defined as any device that is
 embedded with sensor/electronics which is connected to internet and can be
 remotely monitored.
+
+Here, the Controllers used are an Arduino, where all the sensors/inputs are connected, 
+Raspberry Pi where all the processing is done. Arduino acts as a slave to the Raspberry Pi
+using nanpy.
