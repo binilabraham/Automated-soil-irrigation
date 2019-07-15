@@ -15,4 +15,4 @@ more environmentally friendly.
 In order to monitor and optimize energy consumption the microgrid is
 integrated with I.o.T. Internet of things (I.o.T) can be defined as any device that is
 embedded with sensor/electronics which is connected to internet and can be
-remotely controlled.
+remotely monitored.
