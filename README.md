@@ -1,2 +1,3 @@
-# Automated-soil-irrigation
-An automated system that can be automatically or manually controlled to maintain soil moisture level using Arduino processor and bluetooth.
+# Projects
+1. Automated Soil Irrigation System 
+2. Microgrid Integrated with IoT
