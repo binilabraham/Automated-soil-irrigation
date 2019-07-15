@@ -1,0 +1,7 @@
+Current Sensor used is an non-inavsion Current sensor of 10A
+
+Its actually a Current Transformer which can cliped to the exterior of the incoming power line and we can measure the power utilised 
+in the power line. With the inputs from the current values we can measure the load as there is not much difference in the volatge.
+
+This current Sensor needs to be connected to the ciruit as per the wiring diagram inorder to reduce input voltage to the Arduino from
+the secondary of the CT. Here I measured both input and ground values to make the calculations more acccurate.
