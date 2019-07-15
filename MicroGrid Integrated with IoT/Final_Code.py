@@ -58,7 +58,7 @@ def Current_Calc_B():
         #sleep(0.1)
 
     for i in range(300):
-        SumSqVClamp = SumSqVClamp + math.pow(readingsVClamp_S[i],2)
+        SumSqVClamp = SumSqVClamp + math.pow(readingsVClamp_B[i],2)
     total = math.sqrt(SumSqVClamp/300)
     total = ((total*0.076)-0.076)
     return total
