@@ -1,0 +1,8 @@
+#Compnents 
+1. Arduino Uno Board - ATmega238
+2. Moisture Sensing Unit 
+3. LCD Display - 2x16 LCD 
+4. Bluetooth Module - HC 06
+5. Relay - 5A relay
+6. Pump - 12V water pump
+7. Switch - Push button
