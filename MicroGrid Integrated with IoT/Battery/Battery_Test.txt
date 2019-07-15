@@ -1,0 +1,5 @@
+# Measure the Voltage across the terminals of the battery.
+
+A simpler voltage divider circuit is used to measure the voltage across battery terminals and the resultant volatge sholud be at a safer level for 
+the Input the arduino. 
+
